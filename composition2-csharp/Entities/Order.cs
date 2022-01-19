@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
+using System.Text;
 using composition2_csharp.Entities.Enums;
 
 namespace composition2_csharp.Entities
@@ -44,7 +45,17 @@ namespace composition2_csharp.Entities
 
         public override string ToString()
         {
-            return Moment + ", " + Status + ", " + Client.Name + ", " + Client.BirthDate.ToString("dd/MM/yyyy") + ", " + Total().ToString("F2", CultureInfo.InvariantCulture);
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("OrderMoment: " + Moment);
+            sb.AppendLine("OrderStatus: " + Status);
+            sb.AppendLine("Client: " + Client.Name + " (" + Client.BirthDate.ToString("dd/MM/yyyy") + ")" + " - " + Client.Email);
+            sb.AppendLine("Order Items:");
+            foreach (OrderItem orderItem in Items)
+            {
+                sb.AppendLine(orderItem.ToString());
+            }
+            sb.AppendLine("Total Price: " + Total().ToString("F2", CultureInfo.InvariantCulture));
+            return sb.ToString();
         }
     }
 }
