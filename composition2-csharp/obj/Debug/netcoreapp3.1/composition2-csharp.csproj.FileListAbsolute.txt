@@ -1,0 +1,14 @@
+C:\Users\Vinicius\source\repos\composition2-csharp\composition2-csharp\bin\Debug\netcoreapp3.1\composition2-csharp.exe
+C:\Users\Vinicius\source\repos\composition2-csharp\composition2-csharp\bin\Debug\netcoreapp3.1\composition2-csharp.deps.json
+C:\Users\Vinicius\source\repos\composition2-csharp\composition2-csharp\bin\Debug\netcoreapp3.1\composition2-csharp.runtimeconfig.json
+C:\Users\Vinicius\source\repos\composition2-csharp\composition2-csharp\bin\Debug\netcoreapp3.1\composition2-csharp.runtimeconfig.dev.json
+C:\Users\Vinicius\source\repos\composition2-csharp\composition2-csharp\bin\Debug\netcoreapp3.1\composition2-csharp.dll
+C:\Users\Vinicius\source\repos\composition2-csharp\composition2-csharp\bin\Debug\netcoreapp3.1\composition2-csharp.pdb
+C:\Users\Vinicius\source\repos\composition2-csharp\composition2-csharp\obj\Debug\netcoreapp3.1\composition2-csharp.csproj.AssemblyReference.cache
+C:\Users\Vinicius\source\repos\composition2-csharp\composition2-csharp\obj\Debug\netcoreapp3.1\composition2-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\source\repos\composition2-csharp\composition2-csharp\obj\Debug\netcoreapp3.1\composition2-csharp.AssemblyInfoInputs.cache
+C:\Users\Vinicius\source\repos\composition2-csharp\composition2-csharp\obj\Debug\netcoreapp3.1\composition2-csharp.AssemblyInfo.cs
+C:\Users\Vinicius\source\repos\composition2-csharp\composition2-csharp\obj\Debug\netcoreapp3.1\composition2-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\composition2-csharp\composition2-csharp\obj\Debug\netcoreapp3.1\composition2-csharp.dll
+C:\Users\Vinicius\source\repos\composition2-csharp\composition2-csharp\obj\Debug\netcoreapp3.1\composition2-csharp.pdb
+C:\Users\Vinicius\source\repos\composition2-csharp\composition2-csharp\obj\Debug\netcoreapp3.1\composition2-csharp.genruntimeconfig.cache

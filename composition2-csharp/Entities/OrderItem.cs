@@ -15,11 +15,11 @@ namespace composition2_csharp.Entities
 
         }
 
-        public OrderItem(int quantity, double price, Product product)
+        public OrderItem(int quantity, Product product)
         {
             Quantity = quantity;
-            Price = price;
             Product = product;
+            Price = product.Price;
         }
 
         public double SubTotal()
